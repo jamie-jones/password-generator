@@ -14,6 +14,8 @@ Another thank you goes out to my fellow Coding Bootcamp students, who sat on voi
 
 ## Layout
 
+Official Site: https://jamjon94.github.io/password-generator/
+
 Here's what to expect!
 
 ![PasswordLength](password-generator-2.png "Password Length")
